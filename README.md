@@ -2,7 +2,7 @@
 
 # Business Analytics II 
 
-## [Pedro Hernandez](https://www.maastrichtuniversity.nl/research/institutes/ids/people)
+## [Pedro Hernandez (Institute of Data Science)](https://www.maastrichtuniversity.nl/research/institutes/ids/people)
 ## p.hernandezserrano@maastrichtuniversity.nl
 
 ## BISS Institute at Brightlands Smart Services Campus 
